@@ -1,13 +1,13 @@
-🚀 About Me
+🚀 Über mich
 
-🔭 I'm currently working on responsive web applications
+🔭 Ich arbeite derzeit an responsiven Webanwendungen.
 
-🌱 I'm currently learning JavaScript frameworks and backend technologies
+🌱 Ich lerne derzeit JavaScript-Frameworks und Backend-Technologien.
 
-👯 I'm looking to collaborate on open source projects
+👯 Ich bin auf der Suche nach einer Zusammenarbeit bei Open-Source-Projekten.
 
-💬 Ask me about HTML, CSS, JavaScript, and web development
+💬 Fragen Sie mich zu HTML, CSS, JavaScript und Webentwicklung.
 
-📫 How to reach me: hamzaelouafir91@gmail.com
+📫 So erreichen Sie mich: hamzaelouafir91@gmail.com
 
-⚡ Fun fact: I love solving coding challenges and building user-friendly interfaces
+⚡ Wissenswertes: Ich liebe es, Programmieraufgaben zu lösen und benutzerfreundliche Oberflächen zu entwickeln.
