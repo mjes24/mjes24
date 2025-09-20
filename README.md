@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi 👋 I'm Erik Cupsa
+💫 About Me:
+I am a fourth-year computer engineering student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-<!--
-**mjes24/mjes24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Up To
+🤖 Exploring Machine Learning with scikit-learn
+💻 Building Spring Boot applications with PostgreSQL
+Check out my coding portfolio!
 
-Here are some ideas to get you started:
+🎓 About Me
+I'm also an educational coding content creator, sharing my coding passion, and any advice on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instagram
+TikTok
+YouTube
+🌐 Connect with me:
+LinkedIn
+
+💻 Tech Stack:
+Languages: Python Java SQL HTML5 CSS JavaScript C VHDL
+
+Developer Tools: Postman PowerBI Git
+
+Libraries/Frameworks: AWS ReactJS PostgreSQL Spring Boot NodeJS Azure Docker 
